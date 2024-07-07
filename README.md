@@ -40,5 +40,4 @@ To get started with this project, follow these steps:
 - Follow the UI to register users and sign in
 
 ## Author
-
-Your Name (@shravanimahendrakar)
+Shravani Mahendrakar (@shravanimahendrakar)
