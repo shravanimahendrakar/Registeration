@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
   
 
 4. **Running the Application**:
-- Build and run the application using your IDE.
+- Build and run the application using your IDE. (Run As Spring boot application)
 
 5. **Usage**:
 - Open your browser and `http://localhost:8080` to access the application.
